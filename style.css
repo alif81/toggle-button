@@ -578,7 +578,7 @@ body {
   background-color: #03a9f4;
 }
 
-#button-10.knobs::after {
+#button-10 .knobs::after {
   content: "NO";
   right: 4px;
   color: #4e4e4e;
